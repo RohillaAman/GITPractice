@@ -1,5 +1,1 @@
-Rebase by Branch 1
-Rebase by Branch 3
-Rebase
-Branch 2 modified
-Rebase by Branch 1
+merge
